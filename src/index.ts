@@ -15,7 +15,7 @@ import { IncomingMessage } from "http";
 /** Minimum allowed tokens for documentation retrieval */
 const MINIMUM_TOKENS = 300;
 /** Default tokens when none specified */
-const DEFAULT_TOKENS = 1000;
+const DEFAULT_TOKENS = 500;
 /** Default HTTP server port */
 const DEFAULT_PORT = 3000;
 
